@@ -1,6 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
-## NAME : SANJAY.C
-## REGISTER NUMBER : 212223240150
+## NAME : DHINESH.M
+## REGISTER NUMBER : 212223040040
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
